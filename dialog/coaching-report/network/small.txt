@@ -1,0 +1,3 @@
+Your network was very limited of roughly %d people. Think about how you can expand your influence.
+You don't appear to have many colleagues, only about %d people. Find a coach that can help you grow your network.
+You could benefit from a larger network. Your network is roughly %d people.  I wonder how you can have a greater impact?

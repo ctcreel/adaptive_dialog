@@ -1,0 +1,4 @@
+# This dialog is designed to help people think of ways to help their colleagues improve their productivity
+What could this person do to improve the productivity of the team in the coming quarter?
+Do you have any ideas for things this person could do to improve the productivity of the team?
+What advice could you give this person to improve overall team productivity

@@ -1,0 +1,3 @@
+Good job on your feedback. You received %.2f comments on average per topic. See if you can get more feedback next time.
+Nice job on the amount of feedback you collected. You received %.2f comments on average per topic. I wonder if you can collect more feedback next time?
+You received a sufficient amount of feedback to identify some changes. You received %.2f comments on average per topic. Come up with a way to collect more feedback next time

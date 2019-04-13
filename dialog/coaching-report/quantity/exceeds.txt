@@ -1,0 +1,3 @@
+Wow! You recieved a lot of feedback this quarter! You received %.2f comments on average per topic. Can you teach others how to do as well as you.
+Great job on your feedback. You received %.2f comments on average per topic. Can you use all this feedback to help the entire team?
+Your colleagues clearly care about you.  You received %.2f comments on average per topic. Can you help others collect as much feedback?

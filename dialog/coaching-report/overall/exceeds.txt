@@ -1,0 +1,3 @@
+Wow! You really did great! Your score was %.2f.  You should think about how to stretch yourself. It looks like you may have reached the pinnacle of your performance.
+I'm impressed and I'm just a computer! Your score was %.2f.  I wonder if you can teach others how to earn the same level of confidence from your colleagues?
+What an impressive job you turned in!. Your score was %.2f. How else can you use your skills to improve yourself and the company?

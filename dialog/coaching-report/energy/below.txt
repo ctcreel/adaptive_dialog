@@ -1,0 +1,4 @@
+# Used in the coaching report for people that got energy ratings below expectations.
+You could do a lot better creating positive energy for your colleagues. Your score was %.2f. Find a coach and brainstorm ideas.
+You can improve the energy on your team a lot. Your score was %.2f. Think about what you can do to up your game.
+You have a lot of room for improving the energy on your team. Your score was %.2f. Read your feedback and come up with a strategy.

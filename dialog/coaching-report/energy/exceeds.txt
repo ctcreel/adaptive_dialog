@@ -1,0 +1,4 @@
+# Used in the coaching report for people that got energy ratings that exceeded expectations.
+Wow! You really generated a lot of great energy! Your score was %.2f. What can you do to teach others your super power?
+Your team loves you! Your score was %.2f. I wonder if you can leverage your positive energy to create a sustainble change in the team?
+Goodness you created a lot of positive energy. Your score was %.2f. Do you think you can help the entire team do what you do?

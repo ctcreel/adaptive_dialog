@@ -1,0 +1,3 @@
+You influence a lot of people, about %d people! That can be great but be careful not to overcommit yourself.
+Your network is very healthy of roughly %d people.  Strengthen those relationships and be careful not to expand your network much more.
+A lot of people care about you, about %d people! Make sure you return the favor by not overcommitting yourself.

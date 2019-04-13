@@ -1,0 +1,4 @@
+# This dialog is designed to help people giving feedback on skills to better frame their thoughts to create the greatest impact.
+What would you recommend this person do to improve their skills in the coming quarter?
+What could this person do to improve tean skills in the coming quarter?
+Do you have any ideas on how this person could improve overall team skills in the next quarter?

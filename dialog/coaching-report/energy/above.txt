@@ -1,0 +1,4 @@
+# Used in the coaching report for people that got energy ratings above expectations.
+Nice job creating positive energy for your team. Your score was %.2f. A happy team is a more productive team! Think about how you can do even better.
+Your colleagues like the energy you are generating for the team. Your score was %.2f. I wonder if you can do even better?
+You are helping to create a hapy team. Your score was %.2f. Nice work! Now come up with a plan to improve your energy a little more.

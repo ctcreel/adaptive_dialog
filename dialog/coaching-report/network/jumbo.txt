@@ -1,0 +1,3 @@
+Your network is very big, roughly %d people.  I wonder if you feel a bit overwhelmed? If so it is time to pair back and focus.
+A large network of people appear to rely on you, about %d people. You may want to consider focusing your energies.
+Your network is about %d people. Supporting too many people can water down your value to the company. If you feel overworked consider shedding lower value responsibilities.

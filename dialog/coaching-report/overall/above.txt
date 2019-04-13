@@ -1,0 +1,3 @@
+Nice work this quarter! Your score was %.2f. Talk with your team about what you can do to get your scores even higher!
+Good job! Your colleagues clearly have confidence in you. Your score was %.2f.  I wonder if you can find a way to do even better next time?
+You turned in a solid quarter. Your score was %.2f. You colleagues have a lot of confidence in you. Think about how to use that confidence to turn in an even better performance next time.

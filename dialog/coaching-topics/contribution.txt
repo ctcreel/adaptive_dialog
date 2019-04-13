@@ -1,0 +1,4 @@
+# This dialog is designed for people giving feedback ideas on how they should frame their thoughts to achieve the greatest impact 
+What could this person do to improve their contribution to our team in the coming quarter?
+Can you think of ideas this person could pursue to better contribute to the team in the coming quarter?
+Do you have any suggestions for how this person could level-up to better contribute to the team next quarter?
